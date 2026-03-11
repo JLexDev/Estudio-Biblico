@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Obsidian local settings (no necesario sincronizar)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Papelera
+.Trash/
+
+# Archivos del sistema (windows)
+Thumbs.db

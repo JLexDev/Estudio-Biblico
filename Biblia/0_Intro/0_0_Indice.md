@@ -1,49 +1,49 @@
 
-# [Antiguo Testamento](0_1_AT)
+# [Antiguo Testamento](0_1_AT.md)
 
-|  #  |      Sigla       | Libro                |
-| :-: | :--------------: | -------------------- |
-| 01  | [GEN](01_GEN_00) | [Génesis](01_GEN_01) |
-| 02  |       EXO        | Éxodo                |
-| 03  |       LEV        | Levítico             |
-| 04  |       NUM        | Números              |
-| 05  |       DEU        | Deuteronomio         |
-| 06  |       JOS        | Josué                |
-| 07  |       JUE        | Jueces               |
-| 08  |       RUT        | Rut                  |
-| 09  |       1SA        | 1 Samuel             |
-| 10  |       2SA        | 2 Samuel             |
-| 11  |       1RE        | 1 Reyes              |
-| 12  |       2RE        | 2 Reyes              |
-| 13  |       1CR        | 1 Crónicas           |
-| 14  |       2CR        | 2 Crónicas           |
-| 15  |       ESD        | Esdras               |
-| 16  |       NEH        | Nehemías             |
-| 17  |       EST        | Ester                |
-| 18  |       JOB        | Job                  |
-| 19  |       SAL        | Salmos               |
-| 20  |       PRO        | Proverbios           |
-| 21  |       ECL        | Eclesiastés          |
-| 22  |       CAN        | Cantares             |
-| 23  |       ISA        | Isaías               |
-| 24  |       JER        | Jeremías             |
-| 25  |       LAM        | Lamentaciones        |
-| 26  |       EZE        | Ezequiel             |
-| 27  |       DAN        | Daniel               |
-| 28  |       OSE        | Oseas                |
-| 29  |       JOE        | Joel                 |
-| 30  |       AMO        | Amós                 |
-| 31  |       ABD        | Abdías               |
-| 32  |       JON        | Jonás                |
-| 33  |       MIQ        | Miqueas              |
-| 34  |       NAH        | Nahúm                |
-| 35  |       HAB        | Habacuc              |
-| 36  |       SOF        | Sofonías             |
-| 37  |       HAG        | Hageo                |
-| 38  |       ZAC        | Zacarías             |
-| 39  |       MAL        | Malaquías            |
+|  #  |        Sigla        | Libro                   |
+| :-: | :-----------------: | ----------------------- |
+| 01  | [GEN](01_GEN_00.md) | [Génesis](01_GEN_01.md) |
+| 02  |         EXO         | Éxodo                   |
+| 03  |         LEV         | Levítico                |
+| 04  |         NUM         | Números                 |
+| 05  |         DEU         | Deuteronomio            |
+| 06  |         JOS         | Josué                   |
+| 07  |         JUE         | Jueces                  |
+| 08  |         RUT         | Rut                     |
+| 09  |         1SA         | 1 Samuel                |
+| 10  |         2SA         | 2 Samuel                |
+| 11  |         1RE         | 1 Reyes                 |
+| 12  |         2RE         | 2 Reyes                 |
+| 13  |         1CR         | 1 Crónicas              |
+| 14  |         2CR         | 2 Crónicas              |
+| 15  |         ESD         | Esdras                  |
+| 16  |         NEH         | Nehemías                |
+| 17  |         EST         | Ester                   |
+| 18  |         JOB         | Job                     |
+| 19  |         SAL         | Salmos                  |
+| 20  |         PRO         | Proverbios              |
+| 21  |         ECL         | Eclesiastés             |
+| 22  |         CAN         | Cantares                |
+| 23  |         ISA         | Isaías                  |
+| 24  |         JER         | Jeremías                |
+| 25  |         LAM         | Lamentaciones           |
+| 26  |         EZE         | Ezequiel                |
+| 27  |         DAN         | Daniel                  |
+| 28  |         OSE         | Oseas                   |
+| 29  |         JOE         | Joel                    |
+| 30  |         AMO         | Amós                    |
+| 31  |         ABD         | Abdías                  |
+| 32  |         JON         | Jonás                   |
+| 33  |         MIQ         | Miqueas                 |
+| 34  |         NAH         | Nahúm                   |
+| 35  |         HAB         | Habacuc                 |
+| 36  |         SOF         | Sofonías                |
+| 37  |         HAG         | Hageo                   |
+| 38  |         ZAC         | Zacarías                |
+| 39  |         MAL         | Malaquías               |
 
-# [Nuevo Testamento](0_2_NT)
+# [Nuevo Testamento](0_2_NT.md)
 
 |  #  | Sigla | Libro            |
 | :-: | :---: | ---------------- |
